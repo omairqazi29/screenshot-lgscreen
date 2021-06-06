@@ -1,6 +1,7 @@
 # Liquid Galaxy SS
-Screenshot a specific screen in a Liquid Galaxy environment
+Screenshot a specific or all screens simultaneously in a Liquid Galaxy environment.
 ## Prerequisites
 `sudo apt install scrot`
 ## Usage Instructions 
-`bash lg-screenshot.sh`
+For a specific screen: `bash lg-screenshot.sh` <br>
+For all screens: `bash lg-allshot.sh`
